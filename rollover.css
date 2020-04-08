@@ -1,0 +1,9 @@
+form input, form select {
+	display:inline;
+}
+.mouseover{
+	background-color: blue;
+}
+.mouseout{
+	background-color: green;
+}
